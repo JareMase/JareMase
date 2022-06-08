@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JareMase
 - 👀 I’m interested in game development 
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity and C#
 - I'm currently working on a robot driving simulator I guess
 
 <!---
